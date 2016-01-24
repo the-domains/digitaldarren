@@ -1,0 +1,28 @@
+name: DigitalDarren
+favicon: null
+layout_spectrum: 0.3073423635214567
+typography_spectrum: 0.05086938198655844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4056056037079543
+  lightness: 0.4310127841308713
+  saturation: 0.7716268140356988
+  rhythmicContrast: 0.9635747075080872
+purpose: []
